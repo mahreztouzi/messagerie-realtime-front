@@ -9,7 +9,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'https://mahrez-chat-apii.onrender.com/';
+const ENDPOINT = 'https://server-mahrez.herokuapp.com/';
 
 let socket;
 
